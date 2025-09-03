@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=50&pause=2000&color=25c725&center=true&width=435&lines=TEST" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=50&pause=2000&color=25c725&center=true&width=435&lines=TEST"/>
 </p>
